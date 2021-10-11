@@ -1,0 +1,27 @@
+[Columns]
+Count=2
+[ColumnsItem0]
+Text=Test Column
+Size=100
+[ColumnsItem1]
+Text=Test Column
+Size=100
+[ColumnsItem2]
+Text=Test Column
+Size=100
+[ColumnsItem3]
+Text=Test Column
+Size=100
+[Items]
+Count=1
+[Items0]
+Text=Test item
+ImageIndex=0
+StateIndex=-1
+Sub0=Test sub
+Sub1=Test sub
+Sub2=Test sub
+[Items1]
+Text=Test item
+ImageIndex=0
+StateIndex=-1
